@@ -1,4 +1,4 @@
-# noticias
+# noticias para big data
 Trabajo respecto a noticias
 Se desea recopilar informacion sobre noticias
 para compararlas y observar si existe
